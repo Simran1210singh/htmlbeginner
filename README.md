@@ -1,2 +1,2 @@
-# htmlbeingner
+# htmlbeginner
 basic terminology of html
